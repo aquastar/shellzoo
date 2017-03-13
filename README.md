@@ -6,7 +6,7 @@
 911:osama|laden,al-qaeda,airliners|united airlines|flight|93,washington|d.c.|capitol|white house,93|flight 93 memorial
 911:osama|laden,al-qaeda,airliners|united airlines|flight|93,stonycreek,93|flight 93 memorial
 911:osama|laden,mohammed,al-shibh,atta
-911:osama|laden,atef,hijacker
+**911:osama|laden,atef,hijacker**
 911:osama|laden,hazmi|nawaf|al-hazmi|mihdhar,hani|hanjour
 911:osama|laden,mihdhar,hani|hanjour
 911:911|9/11|september 11 attacks,osama|laden,seal|us|navy
